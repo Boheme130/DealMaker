@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Deal Maker
+[回到主页](https://boheme130.github.io/Fiction.git.io/)
+<br>
+<br>
 
-You can use the [editor on GitHub](https://github.com/Boheme130/DealMaker/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+作品：Deal Maker <br>
+作者：Lily Morton <br>
+评分：4.25/5 <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+模特 & 奶爸演员，”我是来加入这个家，不是来拆散这家“
 
-### Markdown
+模特Jude一次在和炮友Dean睡觉时房顶突然塌了，楼上的浴缸掉落在了他的卧室。在公寓维修的三个月期间，Dean提出可以让Jude暂住在他的继兄Asa家里。Asa是一个大明星演员，单独带着一个年幼丧母的儿子，由于Asa的助理刚刚辞职，Jude暂住的条件就是处理Asa生活中的一些杂事。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+第一次见面，Asa就对Jude模特的职业十分反感，直接认定Jude是一个没有脑子的草包。Jude怒火中烧，决定报复，他故意扮演成一个没有脑子、只关注自己外表的模特刻板印象。尽管Jude不怎么节食，但他为了气Asa每次一起吃饭都喋喋不休地教导Asa每样食物的卡路里。同时，面对Asa的粉丝来信，Jude帮Asa回了让Asa非常丢脸的信。然而，Jude却真正喜欢上了Asa的儿子Billy, 他在和Billy相处的过程中赢得了Billy的信任。
 
-```markdown
-Syntax highlighted code block
+一次没人在家，Billy被阴险的保姆施加暴力，Jude恰好回家和保姆大吵一架，Asa工作回家后知道了真相，他解雇了保姆，同时向Jude道歉。他其实很早就发现了Jude其实很聪明，那些无脑的表演也骗不过演员的眼睛。Asa诚恳请求Jude在回到公寓之前暂时做Billy的保姆，Jude同意了。
 
-# Header 1
-## Header 2
-### Header 3
+在Jude的生日这天，Asa为Jude准备了惊喜的乡村三日游。一向不喜欢生日的Jude十分感动。两人在夜晚Billy睡着后在户外谈心，双方都知道了对方的历史包袱。Asa的模特前男友Phillip是曾经唯一让Asa放下心墙的男人，然而Phillip深深伤害了Asa，因此双性恋的Asa从此不再和男人恋爱，更是对模特这个职业十分反感。另一边，Jude原本有着幸福的生活，在大学学习喜欢的历史学，有着爱他的男友，他准备深造时却在21岁生日那天父亲遭遇意外变成瘫痪。Jude承受起来家庭农场的重担，然而农场的支出和父亲的医药费让他入不敷出。他因此被迫辍学，当起了模特养家。然而模特赚的钱也远远不够，他的男友更是无法忍受Jude每天都在工作或照顾家人和他分手。Jude从那时起就一直奔波于工作和家人，他谈过几次失败的恋爱，对爱情已经非常失望。
 
-- Bulleted
-- List
+两人在夜晚知道了对方的过往，Jude抑制不住内心的情感吻了Asa, Asa也有着同样的情感，两人干柴烈火开干了。然而由于两人的历史，Asa不应恋爱，Jude不想恋爱，他们约定两人只是肉体关系，同时Jude在公寓修好后就离开。
 
-1. Numbered
-2. List
+度假几天后突然传来了公关丑闻，原来Asa的前男友Phillip把Asa的种种秘密卖给了媒体，Asa一时间陷入了丑闻风波，原本的住所已经被狗仔包围。为了不伤害Billy, Asa让Jude带着Billy去摩洛哥躲避风头，而他留在英国处理公关危机。处理完后，Asa来到了摩洛哥加入了Jude, 两人在与世隔绝的别墅里度过了浪漫的时光。一天Asa受熟人邀请带着Jude参加一场派对，会上意外遇到了Phillip. Phillip厚颜无耻还想要Asa理解他，Jude和Asa当面斥责了Phillip, 把他推进了泳池。
 
-**Bold** and _Italic_ and `Code` text
+公关风波过后两人回到伦敦，然而夏天即将过去，Jude明白自己也即将离开。尽管两人都爱上了对方，但由于误解和包袱双方大吵一架，Jude离开了Asa, 但在双方好友的劝诫下，两人都意识到了对对方的情感，Jude重新回到了Asa身边，两人坠入爱河。
 
-[Link](url) and ![Image](src)
-```
+Asa被小人爆料出了Billy母亲去世的真相(吸D)，这一次面对丑闻，Asa不想再放下Jude和Billy。他把公关的任务交给了团队，陪着Jude回到了他家的农场躲避媒体。两人在农场里度过了平静的时光，Asa感受到Jude在田野中的一面，他偷偷买下了农场的债务，尽管Jude一家还是坚持自己还清，但Asa免除了造成主要负担的利息。Jude的父母也希望Jude不再做模特，去做自己喜欢的事。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boheme130/DealMaker/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+两年后，Jude已经成了一名小学教师。他很享受这种新生活。Asa在乡下Jude的父母家旁买了栋房子(离Dylan和Gabe的房子也只有10分钟车程)，在剧组的非拍摄期间，他们就住在乡下。故事结束在Asa和Billly一起策划的一场求婚。
