@@ -1,5 +1,7 @@
 ## Deal Maker
 [回到主页](https://boheme130.github.io/Fiction.git.io/)
+
+![avatar](https://media.newyorker.com/photos/590975371c7a8e33fb38f4be/master/w_2560%2Cc_limit/090629_r18599_p646.jpg)
 <br>
 <br>
 
