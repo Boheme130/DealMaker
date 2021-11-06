@@ -1,6 +1,5 @@
 ## Deal Maker
-[回到主页](https://boheme130.github.io/Fiction.git.io/)
-
+[回到主页](https://boheme130.github.io/Fiction.git.io/) <br>
 [回到上一页](https://boheme130.github.io/LilyMorton.git.io/)
 
 ![avatar](https://media.newyorker.com/photos/60df321953829a97326608e6/master/pass/Rich-BigNap-3.jpg)
